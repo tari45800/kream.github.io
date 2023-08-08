@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6788470.css",
-    "main.js": "/static/js/main.9fb98303.js",
-    "static/js/787.68602cd1.chunk.js": "/static/js/787.68602cd1.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.b6788470.css.map": "/static/css/main.b6788470.css.map",
-    "main.9fb98303.js.map": "/static/js/main.9fb98303.js.map",
-    "787.68602cd1.chunk.js.map": "/static/js/787.68602cd1.chunk.js.map"
+    "main.css": "/kream.github.io/static/css/main.b6788470.css",
+    "main.js": "/kream.github.io/static/js/main.ed0f6088.js",
+    "static/js/787.68602cd1.chunk.js": "/kream.github.io/static/js/787.68602cd1.chunk.js",
+    "static/media/logo.svg": "/kream.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kream.github.io/index.html",
+    "main.b6788470.css.map": "/kream.github.io/static/css/main.b6788470.css.map",
+    "main.ed0f6088.js.map": "/kream.github.io/static/js/main.ed0f6088.js.map",
+    "787.68602cd1.chunk.js.map": "/kream.github.io/static/js/787.68602cd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6788470.css",
-    "static/js/main.9fb98303.js"
+    "static/js/main.ed0f6088.js"
   ]
 }
