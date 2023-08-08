@@ -153,7 +153,7 @@ function Banner() {
         {banners.map((el, idx) => {
           return <div className='bannerDiv' key={idx}>
                     <div>
-                      <img src={`../images/banners/banner (${el}).png`}></img>
+                      <img src={`https://tari45800.github.io/kream.github.io/images/banners/banner (${el}).png`}></img>
                     </div>
                  </div>
         })}
@@ -162,8 +162,8 @@ function Banner() {
         <div className='buttonContainer'>
           <div className='topBanner'></div>
           <div className='midBanner'>
-            <img src='../images/banners/icons8-less-than-50.png' onClick={()=>{sideChange(-1)}}></img>
-            <img src='../images/banners/icons8-more-than-50.png' onClick={()=>{sideChange(1)}}></img>
+            <img src='https://tari45800.github.io/kream.github.io/images/banners/icons8-less-than-50.png' onClick={()=>{sideChange(-1)}}></img>
+            <img src='https://tari45800.github.io/kream.github.io/images/banners/icons8-more-than-50.png' onClick={()=>{sideChange(1)}}></img>
           </div>
           <div className='bottomBanner'>
           {banners.map((el, idx) => {

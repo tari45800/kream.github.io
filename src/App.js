@@ -14,7 +14,7 @@ function App() {
       <GlobalStyle></GlobalStyle>
       <Header></Header>
       <Routes>
-        <Route path='/' element={<Main></Main>}></Route>
+        <Route path='/kream.github.io' element={<Main></Main>}></Route>
         <Route path='/Login' element={<Login></Login>}></Route>
         <Route path='/ManPage' element={<ManPage></ManPage>}></Route>
       </Routes>

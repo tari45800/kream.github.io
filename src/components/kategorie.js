@@ -89,7 +89,7 @@ function Kategorie() {
       <KategorieContainer>
         {kategories.map((el, idx) => {
           return<KategorieDiv key={idx}>
-                    <img src={`../images/kategories/${el.img}.jpg`}></img>
+                    <img src={`https://tari45800.github.io/kream.github.io/images/kategories/${el.img}.jpg`}></img>
                     <span>{el.imgName}</span>
                 </KategorieDiv>
 
